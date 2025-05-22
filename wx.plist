@@ -35,11 +35,11 @@
 				<key>bundle-identifier</key>
 				<string>com.qc.wxtest</string>
 				<key>bundle-version</key>
-				<string>8.0.50</string>
+				<string>8.0.50.37</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>微信</string>
+				<string>工作微信</string>
 			</dict>
 		</dict>
 	</array>
